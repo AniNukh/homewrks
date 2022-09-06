@@ -1,0 +1,26 @@
+.button {
+    display: block;
+    position: fixed;
+    left: 85%;
+    bottom:30px;
+    height: 25px;
+    width: 80px;
+    background:rgb(108, 201, 154);
+    font-family: 'Franklin Gothic Medium';
+    color: white;
+    padding:5px;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* #box {
+    height: 1000px;
+    width: 100%;
+    overflow-x: hidden;
+    margin: auto;
+    border: 1px solid black;
+} */
+body{
+    height:2000px;
+}
